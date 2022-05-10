@@ -1,0 +1,10 @@
+>> set an array of random words
+>> choose a random word
+>> display the word as a series of blanks
+
+>> listen to user keyDowns and 
+>> if user types the right letter replace the displayed blank with that letter
+
+install timer
+ if user completes puzzle before timer record win to local memory
+ if user doesnt complete in time record loss to local memory
